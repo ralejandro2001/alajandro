@@ -1,0 +1,136 @@
+div {background-color: white;
+}
+body {
+text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.5rem;
+color: #66bfbf;
+line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #66bfbf;
+  text-align: center;
+  padding-bottom: 10px;
+}
+span {
+  color: #1F4690;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+.top-container {background-color:#E4F9F5;
+ }
+
+ hr {
+  border: dotted #54BAB9 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+ }
+ a {
+   text-decoration: none;
+   color: #18978F;
+   margin: 20px 10px;
+
+ }
+ a:hover {
+   color: white;
+ }
+.hello {
+  width: 30%;
+margin: auto;
+}
+ .pro {
+  text-decoration: underline;
+ }
+
+ .bottom-cloud {
+   position: absolute;
+ }
+.top-cloud{
+  position: relative;
+  left:300px;
+}
+
+
+.alex { border-radius: 200px;
+  width: 200px;
+  height: 200px;
+}
+
+.bn {
+  width: 25%;
+border-style: solid;
+  border-radius: 100px;
+  border-color: yellow;
+  float: right;
+  margin-left:  30px;
+}
+.exp {
+  width: 25%;
+float: left;
+margin-right: 30px;
+}
+.programar{
+  font-size: 2.5rem;
+}
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+
+.p-desing-developmen{
+  clear: left;
+}
+.p-Corporate-web{
+  clear:right;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color:  #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #24ffff 5%, #408c99 100%);
+	background-color:#24ffff;
+	border-radius:41px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #24ffff 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copy {
+  color: white;
+  margin: 20px 10px;
+
+}
